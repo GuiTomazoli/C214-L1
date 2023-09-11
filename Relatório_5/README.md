@@ -1,6 +1,6 @@
 # Aula 05
 
-Foi feito funcionalidades e testes unitários para o calculo do IMC
+Foi feito funcionalidades e testes unitários para o calculo do IMC.
 
 Implementações: 
 
