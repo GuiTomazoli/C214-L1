@@ -23,8 +23,8 @@ describe('Calculadora de IMC', () => {
   });
 
   it('IMC dentro da classificação de Abaixo do peso', () => {
-    const peso = 70; // 40 kg
-    const altura = 200; // 150 cm
+    const peso = 70; // 70 kg
+    const altura = 200; // 200 cm
 
     const IMCCalculado = calcularIMC(peso, altura);
 
@@ -32,8 +32,8 @@ describe('Calculadora de IMC', () => {
   });
 
   it('IMC dentro da classificação de Obesidade Grau 3', () => {
-    const peso = 130; // 120 kg
-    const altura = 170; // 170 cm
+    const peso = 150; // 150 kg
+    const altura = 190; // 190 cm
 
     const IMCCalculado = calcularIMC(peso, altura);
 
