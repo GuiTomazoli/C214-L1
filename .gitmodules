@@ -4,3 +4,6 @@
 [submodule "Relatório_8/Aula_08_C214_L1"]
 	path = Relatório_8/Aula_08_C214_L1
 	url = https://github.com/GuiTomazoli/Aula_08_C214_L1.git
+[submodule "Relatório_8_CI/Aula_08_C214_L1"]
+	path = Relatório_8_CI/Aula_08_C214_L1
+	url = https://github.com/GuiTomazoli/Aula_08_C214_L1.git
